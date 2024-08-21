@@ -11,7 +11,7 @@ export const metadata = {
 export default function MainPage() {
   return (
     <div className="text-black p-2">
-      <h1>Pagina principal del dashboard modificado</h1>
+      <h1>Pagina principal del dashboard modificado otra vez</h1>
       <span className="text-xl">Informacion general</span>
 
       <div className="flex flex-wrap items-center justify-center p-2">
